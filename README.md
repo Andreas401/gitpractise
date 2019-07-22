@@ -7,3 +7,5 @@ New commit after creating tag
 Yet another commit
 
 Commit after 2nd tag
+
+testing how to get tag
